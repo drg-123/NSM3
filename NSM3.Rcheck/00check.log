@@ -1,0 +1,21 @@
+* using log directory ‘/home/drg/Downloads/NSM3/NSM3.Rcheck’
+* using R version 4.1.2 (2021-11-01)
+* using platform: x86_64-pc-linux-gnu (64-bit)
+* using session charset: UTF-8
+* using option ‘--as-cran’
+* checking for file ‘NSM3/DESCRIPTION’ ... OK
+* checking extension type ... Package
+* this is package ‘NSM3’ version ‘1.20’
+* checking CRAN incoming feasibility ... NOTE
+Maintainer: ‘Grant Schneider <gschneidz@gmail.com>’
+
+The Date field is over a month old.
+* checking package namespace information ... OK
+* checking package dependencies ... ERROR
+Packages required but not available:
+  'partitions', 'Hmisc', 'np', 'quantreg'
+
+See section ‘The DESCRIPTION file’ in the ‘Writing R Extensions’
+manual.
+* DONE
+Status: 1 ERROR, 1 NOTE
